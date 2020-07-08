@@ -1,7 +1,8 @@
 # beihang2020
 2020北航深度学习课程教案
 
-code文件夹内为 https://github.com/ShusenTang/Dive-into-DL-PyTorch 项目中收录的课本里的pytorch代码
+### 课本配套代码
+课本代码可以自行去 https://github.com/ShusenTang/Dive-into-DL-PyTorch 下载中文版本, 下载方法和本项目相同
 
 ### 下载方法
 1. 想要下载整个项目，点击右上角绿色的 Code，然后选择 DownloadZIP 
